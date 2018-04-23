@@ -27,10 +27,6 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/mistic100/jQuery-QueryBuilder",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mistic100/jQuery-QueryBuilder.git"
-  },
   "ignore": [
     "**/.*",
     "node_modules",
