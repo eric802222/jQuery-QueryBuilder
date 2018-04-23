@@ -26,16 +26,5 @@
     "filter"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mistic100/jQuery-QueryBuilder",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "build",
-    "tests",
-    "composer.json",
-    "package.json",
-    "Gruntfile.js",
-    "CONTRIBUTING.md"
-  ]
+  "homepage": "https://github.com/mistic100/jQuery-QueryBuilder"
 }
